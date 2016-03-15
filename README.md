@@ -12,11 +12,14 @@ ClassifierTest_Knn.m
 ----------------------
 This is the main file to run the code. 
 	
-	FeatureExtFlag 	        ==>  	1 for feature extraction classification and 0 for the other case.
+	FeatureExtFlag 	==>  	1 for feature extraction classification and 0 for the other case.
+	
 	NTestData		==>	Number of Data taken to test the classifier. These Data is taken just after
 					the NData taken for training.
+					
 	NData			==> 	Number of Data taken to train the classifier. 40 seconds in case of non-feature
 					extraction, and 10 seconds in case of feature extraction.
+					
 	TotalNData		==>	Total Ndata captured for each movement.
 	
 ======================================================================================================
