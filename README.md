@@ -4,6 +4,7 @@ Knn General Classifier
 
 This is used for both Knn with feature extraction from the time properties of each channel, and Knn 
 without feature extraction (i.e. considering the 14 channels as the features).
+EEG data (14 channels) are available in "MouthData" folder.
 
 ======================================================================================================
 
